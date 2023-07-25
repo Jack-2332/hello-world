@@ -1,2 +1,4 @@
 # hello-world
-Alx Software Engineering NBO-0723
+Jackson Maripet
+A student of AlX Software engineering Cohort18
+Giving his best for a better tech world
